@@ -19,7 +19,7 @@
 	server.js - the seed copy
 	Copyright (C) 2020-2022 foxtrot-99
 */
-async function markdown(content, discussion = 0, title = '', flags = '') {
+async function namumark(content, discussion = 0, title = '', flags = '') {
 	// markdown 아니고 namumark
 	flags = flags.split(' ');
 	
