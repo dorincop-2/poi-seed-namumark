@@ -1,0 +1,29 @@
+{
+  "name": "poi-seed-namumark",
+  "version": "1.3.1",
+  "description": "Namumark parser written by 2du",
+  "main": "index.js",
+  },
+  "keywords": [
+    "namumark",
+    "wiki",
+    "wikimarkup",
+    "markup",
+    "parser",
+    "namuwiki",
+    "theseed",
+    "js-namumark"
+  ],
+  "repository": "dorincop-2/poi-seed-namumark",
+  "author": "2du",
+  "dependencies": {
+    "async": "^2.5.0",
+    "extend": "^3.0.1",
+    "htmlspecialchars": "^1.0.5",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2"
+  }
